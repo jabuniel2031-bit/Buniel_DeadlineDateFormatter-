@@ -7,7 +7,6 @@ day = int(input("Enter day: "))
 
 event_date = date(year, month, day)
 
-print()
 print("\nFormatted Output: ")
 print("Event:", event)
 print("Date:", event_date)
